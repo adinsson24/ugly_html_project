@@ -1,0 +1,28 @@
+h1{
+    color:rgb(230, 190, 27);
+    text-align: center;
+    background-color: rgba(47,84,155,255);
+    font-weight: 1000;
+}
+h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small; 
+    font-weight:1000;
+}
+
+body{
+    background-color: black;
+
+}
+
+#starters_image_div{
+    text-align: center;
+    border:5px,solid,rgba(47,84,155,255); 
+  
+    margin:-px
+    
+}
+.list{
+    color:white
+}
